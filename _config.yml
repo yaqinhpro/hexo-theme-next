@@ -119,8 +119,8 @@ menu:
   HOME: / || fa fa-home
   RESUME: /RESUME/ || fa fa-user
   ABOUT ME: /ABOUT-ME/ || fa fa-user
-  PORTFOLIO: /PORTFOLIO/ || fa fa-user
-  PHOTOGRAPHY: /PHOTOGRAPHY/ || fa fa-user
+  PORTFOLIO: /PORTFOLIO/ || fa fa-archive
+  PHOTOGRAPHY: /PHOTOGRAPHY/ || fa fa-heart
   #home: / || fa fa-home
   #about: /about/ || fa fa-user
   #tags: /tags/ || fa fa-tags
